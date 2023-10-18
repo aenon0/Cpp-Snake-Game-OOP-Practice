@@ -15,8 +15,6 @@ A simple console-based Snake game implemented in C++ to practice and demonstrate
 - Object-oriented design following C++ best practices.
 - A classic Snake game experience in the console.
 - Arrow key controls for direction.
-- The game keeps track of your score.
-- Game over screen with the option to restart.
 - Modular code for easy understanding and customization.
 
 ## Prerequisites
