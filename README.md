@@ -20,7 +20,7 @@ A simple console-based Snake game implemented in C++ to practice and demonstrate
 ## Prerequisites
 To run the Snake game, you need to have:
 - A C++ compiler (e.g., [GCC](https://gcc.gnu.org/) or [MinGW](http://www.mingw.org/)) installed on your system.
-- 
+
 ## Installation
 1. Clone the repository:
    git clone https://github.com/aenon0/Cpp-Snake-Game-OOP-Practice.git
